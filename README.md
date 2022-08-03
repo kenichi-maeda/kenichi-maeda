@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenichi Maeda
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python and Data science
-- 📫 How to reach me ..
+- 📫 Reach out to me via email or Linkedin
 
 <!---
 kenichi-maeda/kenichi-maeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
